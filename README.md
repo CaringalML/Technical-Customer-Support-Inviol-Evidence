@@ -238,7 +238,7 @@ I am **genuinely excited** to learn and master the following technologies that a
 ## 📄 Additional Resources
 
 - **CV:** [Download CV (PDF)](./CV-17-10-2025-MARTIN-CARINGAL.pdf)
-- **Portfolio Website:** [martincaringal.co.nz](https://martincaringal.co.nz)
+- **Portfolio Website:** [personal-portfolio-86a9d.firebaseapp.com](https://personal-portfolio-86a9d.firebaseapp.com)
 - **AWS SAA Certification:** [Credly Badge](https://www.credly.com/badges/b98862af-ff93-442d-81e8-03258924ff4f/public_url)
 - **AWS CCP Certification:** [Credly Badge](https://www.credly.com/badges/97c17453-db53-4390-ae64-1a3a196bcb38/public_url)
 - **Duolingo English Test:** [Certificate](https://certs.duolingo.com/hsvq8l9mix5t2cvi)
