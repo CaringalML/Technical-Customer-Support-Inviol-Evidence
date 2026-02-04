@@ -11,7 +11,7 @@
 - **Email:** lawrencecaringal5@gmail.com
 - **Phone:** 022 124 8553
 - **Location:** Hamilton, Waikato, New Zealand
-- **Portfolio:** [martincaringal.co.nz](https://personal-portfolio-86a9d.firebaseapp.com)
+- **Portfolio:** [personal-portfolio-86a9d.firebaseapp.com](https://personal-portfolio-86a9d.firebaseapp.com)
 - **Right to Work:** New Zealand Resident
 
 ---
@@ -254,7 +254,7 @@ I am excited about the opportunity to contribute to Inviol's mission of transfor
 
 📧 **Email:** lawrencecaringal5@gmail.com  
 📞 **Phone:** 022 124 8553  
-🌐 **Portfolio:** [martincaringal.co.nz](https://personal-portfolio-86a9d.firebaseapp.com)
+🌐 **Portfolio:** [personal-portfolio-86a9d.firebaseapp.com](https://personal-portfolio-86a9d.firebaseapp.com)
 
 ---
 
